@@ -1,0 +1,92 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.common-class{
+    background-color: whitesmoke;
+    margin: 15px;
+    padding: 20px;
+
+}
+.intro h2{
+    text-align: center;
+    padding-top: 10px;
+}
+.intro p{
+    text-align: center;
+}
+.tech-skills ul li{
+    background-color: skyblue;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+}
+.tech-skills h3{
+    margin-left: 50px;
+}
+.experties h3{
+    margin-left: 50px;
+}
+.experties ol{
+    margin-left: 35px;
+}
+.experties ol li{
+    margin: 10px;
+}
+.project{
+    float: left;
+    width: 30%;
+    margin: 20px;
+}
+.project img{
+    width: 400px;
+    height: 300px;
+    padding: 70px;
+    padding-bottom: 0px;
+}
+.project span{
+    padding-left: 70px;
+}
+.div-clear{
+    clear: both;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    background-color: burlywood;
+}
+td,th{
+    border: 1px solid black;
+}
+.form input:hover{
+    background-color: violet;
+}
+.form textarea:hover{
+    background-color: rgb(189, 43, 226);
+}
+.my-links{
+    text-align: right;
+}
+.my-links ul li{
+    display: inline-block;
+    margin-left: 70px;
+}
+.fb a span svg{
+    height: 50px;
+    margin: auto;
+}
+.mail a svg{
+    height: 50px;
+    width: 50px;
+    margin: 0px;
+    padding: 0px;
+}
+.phone a svg{
+    height: 50px;
+
+}
